@@ -13,6 +13,6 @@
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
   "dependencies": {
-    "kinda-context": "https://github.com/kinda/kinda-context/tarball/master"
+    "kinda-context": "kinda/kinda-context"
   }
 }
