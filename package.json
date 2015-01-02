@@ -17,6 +17,6 @@
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
   "dependencies": {
-    "kinda-context": "kinda/kinda-context"
+    "kinda-context": "^0.1.0"
   }
 }
